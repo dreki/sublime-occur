@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Occur: Find occurrences in current file ...",
+    "command": "occur" 
+  }
+]
