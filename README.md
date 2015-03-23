@@ -20,6 +20,6 @@ After entering `app.` as the pattern to search for:
 
 ## Usage notes
 
-Bring up the Command Palette and type 'occur'. You should then see something like 'Occur: Find occurrences in file ...'. Hit enter and you'll be prompted to enter a **regex** pattern (treated as **case-insensitive**). Hit enter, and you'll be presented with your results in a panel. As you move up and down the list, the result will be scrolled into view (in the center of the screen, if possible). When you hit enter, the selected result will be visible and the results panel will disappear.
+Bring up the Command Palette and type 'occur'. You should then see something like 'Occur: Find occurrences in file ...'. Hit enter and you'll be prompted to enter a **regex** pattern (treated as **case-insensitive**). Hit enter, and you'll be presented with your results in a panel. As you move up and down the list, the selected result will be scrolled into view (in the center of the screen, if possible). When you hit enter, the selected result will be visible in your editor and the results panel will disappear.
 
 Please note that at the current time (2015-03-23), when no results are found, the results panel simply doesn't show up.
